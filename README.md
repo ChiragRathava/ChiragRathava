@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on **Selenium Automation**, **API Testing**, and **Core Java Projects**
 - 🌱 I'm currently learning **Advanced Test Automation Frameworks**, **API Automation**, and **Selenium Best Practices**
 - 👯 I'm looking to collaborate on **Test Automation Projects**, **Selenium Frameworks**, and **API Testing**
-- 👨‍💻 All of my projects are available at [https://github.com/ChiragRathava29](https://github.com/ChiragRathava)
+- 👨‍💻 All of my projects are available at [https://github.com/ChiragRathava](https://github.com/ChiragRathava)
 - 💬 Ask me about **Java**, **Selenium WebDriver**, **API Testing**, **Test Automation**, **TestNG**, **REST Assured**
 - 📫 How to reach me: **[Your Email]** (Add your email here)
 - 📄 Know about my experiences: **[Your LinkedIn]** (Add your LinkedIn profile here)
