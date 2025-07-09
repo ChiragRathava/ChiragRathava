@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on **Selenium Automation**, **API Testing**, and **Core Java Projects**
 - 🌱 I'm currently learning **Advanced Test Automation Frameworks**, **API Automation**, and **Selenium Best Practices**
 - 👯 I'm looking to collaborate on **Test Automation Projects**, **Selenium Frameworks**, and **API Testing**
-- 👨‍💻 All of my projects are available at [https://github.com/ChiragRathava29](https://github.com/ChiragRathava29)
+- 👨‍💻 All of my projects are available at [https://github.com/ChiragRathava29](https://github.com/ChiragRathava)
 - 💬 Ask me about **Java**, **Selenium WebDriver**, **API Testing**, **Test Automation**, **TestNG**, **REST Assured**
 - 📫 How to reach me: **[Your Email]** (Add your email here)
 - 📄 Know about my experiences: **[Your LinkedIn]** (Add your LinkedIn profile here)
@@ -31,32 +31,32 @@
 
 <!--
 ## 📊 GitHub Stats
-![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChiragRathava29&show_icons=true&theme=radical)
+![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChiragRathava&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragRathava29&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragRathava&layout=compact&theme=radical)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChiragRathava29&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChiragRathava&theme=radical)
 -->
 
 ## 🏆 Featured Projects
 
-### 🔧 [Core Java](https://github.com/ChiragRathava29/Core_Java)
+### 🔧 [Core Java](https://github.com/ChiragRathava/Core_Java)
 - **Description**: Core Java programming concepts and examples
 - **Tech Stack**: Java
 - **Key Features**: Object-oriented programming, Collections, Exception handling
 
-### 🌐 [API Automation Framework](https://github.com/ChiragRathava29/API_Automation_Framwork)
+### 🌐 [API Automation Framework](https://github.com/ChiragRathava/API_Automation_Framwork)
 - **Description**: Complete API automation testing framework
 - **Tech Stack**: Java, REST Assured, TestNG
 - **Key Features**: API testing, Response validation, Test reporting
 
-### 🖥️ [Selenium Projects](https://github.com/ChiragRathava29/Selenium_Projects)
+### 🖥️ [Selenium Projects](https://github.com/ChiragRathava/Selenium_Projects)
 - **Description**: Web automation projects using Selenium WebDriver
 - **Tech Stack**: Java, Selenium WebDriver, TestNG
 - **Key Features**: Web automation, Page Object Model, Cross-browser testing
 
-### 📚 [Learning Selenium](https://github.com/ChiragRathava29/Learning_Selenium)
+### 📚 [Learning Selenium](https://github.com/ChiragRathava/Learning_Selenium)
 - **Description**: Selenium learning journey with practical examples
 - **Tech Stack**: Java, Selenium WebDriver
 - **Key Features**: Beginner to advanced Selenium concepts
@@ -68,7 +68,7 @@
 - Learning modern testing practices and tools
 
 ## 📈 Activity Graph
-![Chirag's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChiragRathava29&theme=react-dark)
+![Chirag's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChiragRathava&theme=react-dark)
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rathava-chirag)
@@ -78,4 +78,4 @@
 > "Quality is not an act, it is a habit." - Aristotle
 
 ---
-⭐️ From [ChiragRathava29](https://github.com/ChiragRathava29)
+⭐️ From [ChiragRathava](https://github.com/ChiragRathava)
