@@ -29,6 +29,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<!--
 ## 📊 GitHub Stats
 ![Chirag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChiragRathava29&show_icons=true&theme=radical)
 
@@ -36,6 +37,7 @@
 
 ## 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChiragRathava29&theme=radical)
+-->
 
 ## 🏆 Featured Projects
 
