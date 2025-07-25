@@ -6,7 +6,7 @@
 - 👯 I'm looking to collaborate on **Test Automation Projects**, **Selenium Frameworks**, and **API Testing**
 - 👨‍💻 All of my projects are available at [https://github.com/ChiragRathava](https://github.com/ChiragRathava)
 - 💬 Ask me about **Java**, **Selenium WebDriver**, **API Testing**, **Test Automation**, **TestNG**, **REST Assured**
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathavachirag29@gmail.com)
+- 📫 How to reach me: [![Email](mailto:rathavachirag29@gmail.com)
 - 📄 Know about my experiences: ![LinkedIn](https://www.linkedin.com/in/rathava-chirag)
 - ⚡ Fun fact: **I love automating repetitive tasks and making testing more efficient!**
 
